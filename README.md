@@ -9,6 +9,8 @@ A full-stack application for creating accounts, searching for superheroes, and c
 3) Repeat step 2 but in the directory for server
 4) Run 'npm start' in the client directory
 5) Run 'node server.js' in the server directory
+* Some functionalities will not be available due to mongodb requiring setup, but all UI will be visible *
+* Admin email is set to 'admin@email.com' with password 'admin' *
 
 # Key Functionalities
 Creation of a new account uses jwt for verifying emails. Users can only login if their email is verified.
