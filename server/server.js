@@ -9,7 +9,6 @@ const mongoose = require('mongoose'); // require mongoose
 const cors = require('cors');
 const bcrypt = require('bcrypt'); // require bcrypt for hashing
 const jwt = require('jsonwebtoken'); // require jwt for authentication
-const natural = require('natural');
 
 // temporary key
 const myKey = 'secret-key';
@@ -153,7 +152,7 @@ const initializeAdminAccount = async () => {
   
         const adminAccount = new UserAccounts({
             username: 'admin',
-            email: 'bgorchin@uwo.ca',
+            email: 'admin@email.com',
             password: hashedPassword,
             main_admin: true,
             admin_privileges: true,
