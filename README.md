@@ -33,9 +33,16 @@ Non-logged in users can only search for heroes, and view the most recently creat
 ![image](https://github.com/brendangorch/Superheroes-Database-Application/assets/145873615/e2247cc0-1f75-4f75-bab8-f5eed418b1ff)
 <br/>
 <br/>
-Logged-in users can create lists of any number of superheroes, set these lists to private/public, and update every aspect of their own lists. They can also leave reviews on other public lists.
+![image](https://github.com/brendangorch/Superheroes-Database-Application/assets/145873615/d612a8ba-6adc-425e-9829-82f990ec6d0c)
 <br/>
 <br/>
 
+Logged-in users can create lists of any number of superheroes, set these lists to private/public, and update every aspect of their own lists. They can also leave reviews on other public lists.
+<br/>
+<br/>
+![image](https://github.com/brendangorch/Superheroes-Database-Application/assets/145873615/e4560303-8bd7-489c-b71f-ebecc1024208)
+![image](https://github.com/brendangorch/Superheroes-Database-Application/assets/145873615/00ab549a-a937-4734-b3ef-ac7f9a4ade0b)
+![image](https://github.com/brendangorch/Superheroes-Database-Application/assets/145873615/1d13c3a4-f38e-4cf5-86f9-4b8980d3a135)
+![image](https://github.com/brendangorch/Superheroes-Database-Application/assets/145873615/aee5f49e-c096-4db7-bdb4-162520dbd691)
 <br/>
 <br/>
